@@ -38,7 +38,7 @@ import (
 
 func main() {
 	sys.Initialize()
-	sys.RenderOne(Sphere(10))
+	sys.RenderOne(NewSphere(10))
 }
 ```
 
