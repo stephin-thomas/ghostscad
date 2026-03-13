@@ -14,11 +14,11 @@ var stub = `
 package main
 
 import (
-        // "github.com/ljanyst/ghostscad/lib/shapes"
-        "github.com/ljanyst/ghostscad/sys"
+        // "github.com/ljanyst/stephin/lib/shapes"
+        "github.com/ljanyst/stephin/sys"
 
         // . "github.com/go-gl/mathgl/mgl64"
-        . "github.com/ljanyst/ghostscad/primitive"
+        . "github.com/ljanyst/stephin/primitive"
 )
 
 func main() {

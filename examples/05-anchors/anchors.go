@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/ljanyst/ghostscad/lib/shapes"
-	"github.com/ljanyst/ghostscad/lib/utils"
-	"github.com/ljanyst/ghostscad/sys"
+	"github.com/stephin/ghostscad/lib/shapes"
+	"github.com/stephin/ghostscad/lib/utils"
+	"github.com/stephin/ghostscad/sys"
 
 	. "github.com/go-gl/mathgl/mgl64"
-	. "github.com/ljanyst/ghostscad/primitive"
+	. "github.com/stephin/ghostscad/primitive"
 )
 
 func main() {

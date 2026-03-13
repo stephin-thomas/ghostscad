@@ -11,8 +11,8 @@ import (
 	"os/exec"
 	"strings"
 
-	. "github.com/ljanyst/ghostscad/primitive"
 	log "github.com/sirupsen/logrus"
+	. "github.com/stephin/ghostscad/primitive"
 	prefixed "github.com/x-cray/logrus-prefixed-formatter"
 )
 
