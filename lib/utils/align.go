@@ -4,7 +4,7 @@
 package utils
 
 import (
-	. "github.com/stephin/ghostscad/primitive"
+	. "github.com/stephin-thomas/ghostscad/primitive"
 )
 
 // Returns a transform aligning Anchor b with Anchor a

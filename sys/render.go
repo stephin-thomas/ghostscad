@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	log "github.com/sirupsen/logrus"
-	. "github.com/stephin/ghostscad/primitive"
+	. "github.com/stephin-thomas/ghostscad/primitive"
 	prefixed "github.com/x-cray/logrus-prefixed-formatter"
 )
 

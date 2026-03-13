@@ -5,8 +5,8 @@ package shapes
 
 import (
 	. "github.com/go-gl/mathgl/mgl64"
-	. "github.com/stephin/ghostscad/lib/degmath"
-	. "github.com/stephin/ghostscad/primitive"
+	. "github.com/stephin-thomas/ghostscad/lib/degmath"
+	. "github.com/stephin-thomas/ghostscad/primitive"
 )
 
 func newLine(p1, p2 Vec2, width float64, round bool) Primitive {

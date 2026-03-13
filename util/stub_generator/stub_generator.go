@@ -14,11 +14,11 @@ var stub = `
 package main
 
 import (
-        // "github.com/ljanyst/stephin/lib/shapes"
-        "github.com/ljanyst/stephin/sys"
+        // "github.com/ljanyst/stephin-thomas/lib/shapes"
+        "github.com/ljanyst/stephin-thomas/sys"
 
         // . "github.com/go-gl/mathgl/mgl64"
-        . "github.com/ljanyst/stephin/primitive"
+        . "github.com/ljanyst/stephin-thomas/primitive"
 )
 
 func main() {

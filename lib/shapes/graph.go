@@ -5,7 +5,7 @@ package shapes
 
 import (
 	. "github.com/go-gl/mathgl/mgl64"
-	. "github.com/stephin/ghostscad/primitive"
+	. "github.com/stephin-thomas/ghostscad/primitive"
 )
 
 type Graph struct {
